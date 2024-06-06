@@ -8,7 +8,7 @@ from pandasai import SmartDataframe, Agent
 import streamlit as st
 
 # Setting the API key:
-os.environ["PANDASAI_API_KEY"] = "$2a$10$6O0GXnarXCG1BpmgfFBPe.Tru3NaE0aCNu8zxFONSErKWpT7TIZIO"
+os.environ["PANDASAI_API_KEY"] = ""
 
 st.title("EduInsight: AI-Powered Student Performance📊 Analysis 📈 using PandasAI🐼 Model")
 
